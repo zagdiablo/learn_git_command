@@ -1,0 +1,11 @@
+- make a new directory for the repo
+- type: "git init" command to initialize git, then all files inside this folder
+        is gonnabe tracked by git
+- type: "git status" to check the status of git repo
+- type: "git add <file>" to track change in github
+- type: "git commit -m "<message>"" to commit
+- type: "git checkout" to change branch, add "-b" option to create
+        a new branch
+- type: "git merge <branch name>" to merge into any existing branch
+- type: "git remote add origin <git repo address>" to remote access a cloud git repo
+- type: "git push -u origin master" to push to origin branch
