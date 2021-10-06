@@ -14,3 +14,5 @@ in case of conflict, do: resove conflicting code by editing it manually and then
 - type: "git add ." to add file that are changed
 - type: "git commit -m "change"" "change" is an lias for confilcting merge
 then after it resolve, push changes to repo
+
+merge testing
