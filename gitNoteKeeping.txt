@@ -6,7 +6,9 @@
 - type: "git commit -m "<message>"" to commit
 - type: "git checkout" to change branch, add "-b" option to create
         a new branch
-- type: "git merge <branch name>" to merge into any existing branch
+to merge, switch into your ToBeChangedBranch and then do:
+- type: "git merge <TheUpdatedBranch>" to merge your ToBeChangedBranch into your
+        TheUpdatedBrach then push
 - type: "git remote add origin <git repo address>" to remote access a cloud git repo
 - type: "git push -u origin master" to push to origin branch
 - type: "git push -u origin master" to push to origin branch
