@@ -9,3 +9,7 @@
 - type: "git merge <branch name>" to merge into any existing branch
 - type: "git remote add origin <git repo address>" to remote access a cloud git repo
 - type: "git push -u origin master" to push to origin branch
+in case of conflict, do: resove conflicting code by editing it manually and then 
+- type: "git add ." to add file that are changed
+- type: "git commit -m "change"" "change" is an lias for confilcting merge
+then after it resolve, push changes to repo
